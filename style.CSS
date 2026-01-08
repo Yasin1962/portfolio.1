@@ -18,25 +18,26 @@ Section{
     Border-radius:8px;
 }
 h2{
-    color :#2c3e50;
+    color:#2c3e50;
 }
 .Skills ul{
     List-style-type:square;
     padding-left:20px;
 }
 .project-box{
-    Background:color #ecfof1px;
+    Background:color #ecf of 1px;
     padding:15px;
     Nargin-bottom:10px;
     Border-radius:5px;
 }
-footer{
+Footer{
     Background-color:#2c3e50;
     Color:white;
     text-align: center;
     padding:10px;
 
 }
+
 
 
 
