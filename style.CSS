@@ -4,11 +4,10 @@ Body{
     Margin:0;
     padding:0;
     Background-color:#F4F4F4;
-
 }
 header{
     Background color:#2c3e50;
-    color:Black;
+    color:White;
     Text-align:center;
 
 }
@@ -38,6 +37,7 @@ Footer{
     padding:10px;
 
 }
+
 
 
 
