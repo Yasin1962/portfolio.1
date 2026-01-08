@@ -5,7 +5,7 @@ Body{
     Background-color:#F4F4F4;
 
 }
-read{
+header{
     Background color:#2c3e50;
     color:white;
     Text-align:center;
@@ -35,4 +35,5 @@ Footer{
     Color:white;
     text-align: center;
     padding:10px;
+
 }
