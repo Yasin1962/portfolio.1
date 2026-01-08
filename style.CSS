@@ -13,7 +13,7 @@ header{
 
 }
 Section{
-    Background:Black;
+    Background:White;
     Margin:20px;
     padding:20px;
     Border-radius:8px;
@@ -38,6 +38,7 @@ Footer{
     padding:10px;
 
 }
+
 
 
 
