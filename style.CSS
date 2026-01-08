@@ -8,7 +8,7 @@ Body{
 }
 header{
     Background color:#2c3e50;
-    color:white;
+    color:Black;
     Text-align:center;
 
 }
@@ -38,5 +38,6 @@ Footer{
     padding:10px;
 
 }
+
 
 
