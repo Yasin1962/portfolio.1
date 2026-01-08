@@ -6,9 +6,9 @@ Body{
     Background-color:#F4F4F4;
 }
 header{
-    Background color:#2c3e50;
-    color:White;
-    Text-align:center;
+    Background-color:#2c3e50;
+    Color:White;
+    Text-align:Center;
 
 }
 Section{
@@ -25,18 +25,19 @@ h2{
     padding-left:20px;
 }
 .project-box{
-    Background:color #ecf of 1px;
+    Background:color #ecfof1px;
     padding:15px;
     Nargin-bottom:10px;
     Border-radius:5px;
 }
 Footer{
-    Backgroundcolor:#2c3e50;
+    Background-color:#2c3e50;
     Color:white;
     text-align: center;
     padding:10px;
 
 }
+
 
 
 
