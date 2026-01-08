@@ -1,0 +1,38 @@
+Body{
+    Font-family;
+    Arial,sans-serif;
+    Margin:0;
+    Background-color:#F4F4F4;
+
+}
+read{
+    Background color:#2c3e50;
+    color:white;
+    Text-align:center;
+
+}
+Section{
+    Background:white;
+    Margin:20px;
+    padding:20px;
+    Border-radius:8px;
+}
+h2{
+    color :#2c3e50;
+}
+.Skills ul{
+    List-style-type:square;
+    padding-left:20px;
+}
+.project-box{
+    Background:color#ecf of 1px;
+    padding:15px;
+    Nargin-bottom:10px;
+    Border-radiuas:5px;
+}
+Footer{
+    Backgroundcolor:#2c3e50;
+    Color:white;
+    text-align: center;
+    padding:10px;
+}
