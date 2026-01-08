@@ -2,6 +2,7 @@ Body{
     Font-family;
     Arial,sans-serif;
     Margin:0;
+    padding:0;
     Background-color:#F4F4F4;
 
 }
@@ -25,10 +26,10 @@ h2{
     padding-left:20px;
 }
 .project-box{
-    Background:color#ecf of 1px;
+    Background:color #ecf of 1px;
     padding:15px;
     Nargin-bottom:10px;
-    Border-radiuas:5px;
+    Border-radius:5px;
 }
 Footer{
     Backgroundcolor:#2c3e50;
@@ -37,3 +38,4 @@ Footer{
     padding:10px;
 
 }
+
